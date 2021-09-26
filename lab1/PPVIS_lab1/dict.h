@@ -84,7 +84,7 @@ private:
 public:
     void set_translation(string eng_inp, string rus_inp); ///adds a new english word and its translations
 
-    void remove_translation(string eng_inp); ///σδΰλÿες ύλεμενς δεπεβΰ deletes an element (word) of a dictionary
+    void remove_translation(string eng_inp); ///Γ³Γ€Γ Γ«ΓΏΓ₯Γ² Γ½Γ«Γ₯Γ¬Γ₯Γ­Γ² Γ€Γ₯Γ°Γ₯Γ’Γ  deletes an element (word) of a dictionary
 
     int length(); ///returns the amount of words
 
